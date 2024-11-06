@@ -1,6 +1,26 @@
-### This Rhombus.ai project based on django and react
+# Data Type Inference Web Application
+
+This project is a web application that processes CSV or Excel files to infer and convert data types using Python, Pandas, Django, and React. It allows users to upload files, perform data type conversions (numeric, datetime, categorical), and view the inferred data types in a user-friendly interface.
+
+## Features
+- Infers data types (e.g., numeric, datetime, categorical) using a threshold for categorical data conversion.
+- Converts columns based on data characteristics, making it adaptable to various datasets.
+- Frontend built in React for file upload and data display.
+
+## Requirements
+
+### Backend Requirements
+- Python 3.x
+- Django
+- Django REST framework
+- Pandas
+
+### Frontend Requirements
+- Node.js
+- npm or yarn (for package management)
 
 ## Geeting Started
+
 ## Prerequisties 
 Make sure you have nodejs and npm installed on your machine.
 
